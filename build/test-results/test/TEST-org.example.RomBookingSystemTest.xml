@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.RomBookingSystemTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-24T01:42:15" hostname="Ahmets-MacBook-Pro.local" time="0.04">
+  <properties/>
+  <testcase name="fireBookingerGirLengstePeriodeFire()" classname="org.example.RomBookingSystemTest" time="0.031"/>
+  <testcase name="TreForskjelligeBookingReturnererSynkendeArrayFraPris()" classname="org.example.RomBookingSystemTest" time="0.001"/>
+  <testcase name="toBookingPaaSammeRomOgDatoKasterException()" classname="org.example.RomBookingSystemTest" time="0.002"/>
+  <testcase name="totalInntjeningGirTohundre()" classname="org.example.RomBookingSystemTest" time="0.001"/>
+  <testcase name="bookeRomLeggerTilIBookingLista()" classname="org.example.RomBookingSystemTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
